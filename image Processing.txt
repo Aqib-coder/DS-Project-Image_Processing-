@@ -1,0 +1,4 @@
+-> To read image (imread("path"));
+-> To display image (imshow("image window name",image matrix name));
+
+-> for video input (Video Capture cap(path));
